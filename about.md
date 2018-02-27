@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hey guys! I'm Andrew, and I am a Masters student at [Surrey University] 
-(https://www.surrey.ac.uk/business-school) studying Business Analytics. I also completed my Bachelors in 
-Physics at [Imperial College London](http://www.imperial.ac.uk).</p>
+<p>Hey guys! I'm Andrew, and I am a Masters student at <a href = 
+"https://www.surrey.ac.uk/business-school">Surrey University</a> studying 
+Business Analytics. I also completed my Bachelors in Physics at [Imperial College London](http://www.imperial.ac.uk).</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
