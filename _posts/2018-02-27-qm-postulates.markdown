@@ -7,7 +7,6 @@ headerImage: false
 tag:
 - markdown
 - elements
-star: true
 category: blog
 author: andrewmiller
 description: So let's give this thing a whirl...
