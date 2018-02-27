@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-27T21:27:26+00:00</updated><id>http://localhost:4000/</id><title type="html">Andrew Miller</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">trial_post</title><link href="http://localhost:4000/trial/" rel="alternate" type="text/html" title="trial_post" /><published>2018-02-27T16:41:00+00:00</published><updated>2018-02-27T16:41:00+00:00</updated><id>http://localhost:4000/trial</id><content type="html" xml:base="http://localhost:4000/trial/">&lt;p&gt;Example of project - RetroCalculator Application - &lt;a href=&quot;http://www.github.com/milldawg167/RetroCalculator/&quot;&gt;Demo&lt;/a&gt;. This is a test.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-27T21:49:47+00:00</updated><id>http://localhost:4000/</id><title type="html">Andrew Miller</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Quantum Mechanics Postulates</title><link href="http://localhost:4000/qm-postulates/" rel="alternate" type="text/html" title="Quantum Mechanics Postulates" /><published>2018-02-27T20:44:00+00:00</published><updated>2018-02-27T20:44:00+00:00</updated><id>http://localhost:4000/qm-postulates</id><content type="html" xml:base="http://localhost:4000/qm-postulates/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+
+&lt;p&gt;This is a brief summary (I promise) of the Postulates of Quantum Mechanics, as stated by the Copenhagen Convention.&lt;/p&gt;
+
+&lt;h3 id=&quot;key-postualtes&quot;&gt;Key Postualtes&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Associated with any particle moving in a conservative field of force is a wave function which determines everything that can be known about the system.&lt;/li&gt;
+  &lt;li&gt;With every physical observable q there is associated an operator Q, which when operating upon the wavefunction associated with a definite value of that observable will yield that value times the wavefunction.&lt;/li&gt;
+  &lt;li&gt;Any operator Q associated with a physically measurable property q will be Hermitian.&lt;/li&gt;
+  &lt;li&gt;The set of eigenfunctions of operator Q will form a complete set of linearly independent functions.&lt;/li&gt;
+  &lt;li&gt;For a system described by a given wavefunction, the expectation value of any property q can be found by performing the expectation value integral with respect to that wavefunction.
+-The time evolution of the wavefunction is given by the time dependent Schrodinger equation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;</content><author><name>andrewmiller</name></author><category term="blog" /><category term="physics" /><category term="quantum" /><summary type="html">Summary:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">trial_post</title><link href="http://localhost:4000/trial/" rel="alternate" type="text/html" title="trial_post" /><published>2018-02-27T16:41:00+00:00</published><updated>2018-02-27T16:41:00+00:00</updated><id>http://localhost:4000/trial</id><content type="html" xml:base="http://localhost:4000/trial/">&lt;p&gt;Example of project - RetroCalculator Application - &lt;a href=&quot;http://www.github.com/milldawg167/RetroCalculator/&quot;&gt;Demo&lt;/a&gt;. This is a test.&lt;/p&gt;
 
 &lt;hr /&gt;
 
