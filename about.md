@@ -6,7 +6,7 @@ layout: page
 
 <p>Hey guys! I'm Andrew, and I am a Masters student at <a href = 
 "https://www.surrey.ac.uk/business-school">Surrey University</a> studying 
-Business Analytics. I also completed my Bachelors in Physics at [Imperial College London](http://www.imperial.ac.uk).</p>
+Business Analytics. I also completed my Bachelors in Physics at <a href ="http://www.imperial.ac.uk">Imperial College London</a>.</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -26,7 +26,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>Swift - Objective C</li>
 	<li>Git</li>
 	<li>PHP</li>
-	<li>C++ - C#</li>
+	<li>C++</li>
 	<li>Ruby</li>
 	<li>Python</li>
 	<li>R Programming</li>
