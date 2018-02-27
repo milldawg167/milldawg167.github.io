@@ -15,7 +15,7 @@ externalLink: false
 
 ![Screenshot](https://raw.githubusercontent.com/milldawg167/milldawg16.github.io/master/assets/profile.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://milldawg167.github.io/RetroCalculator/). This is a test.
+Example of project - RetroCalculator Application - [Demo](http://github.com/milldawg167/RetroCalculator/). This is a test.
 
 ---
 
@@ -29,5 +29,5 @@ What has inside?
 
 ---
 
-[Check it out](http://milldawg167.github.io/RetroCalculator/) here.
+[Check it out](http://github.com/milldawg167/RetroCalculator/) here.
 If you need some help, just [tell me](http://github.com/milldawg16/).
