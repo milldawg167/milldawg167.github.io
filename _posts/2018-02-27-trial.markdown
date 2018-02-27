@@ -30,5 +30,5 @@ What has inside?
 
 ---
 
-[Check it out](http://www.github.com/milldawg167/RetroCalculator/) here.
+[Check it out](https://milldawg167.github.io/RetroCalculator/) here.
 If you need some help, just [tell me](http://github.com/milldawg16/).
