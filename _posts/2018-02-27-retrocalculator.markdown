@@ -1,16 +1,16 @@
 ---
-title: "trial_post"
+title: "RetroCalculator"
 layout: post
 date: 2018-02-27 16:41
 tag:
 - swift
 - xcode
 - iOS
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://milldawg167.github.io/assets/images/Retro-Calc.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a test."
+description: "First proper Xcode application - combines a retro feel with simple logic and accessibility."
 category: project
 author: andrewmiller
 externalLink: false
