@@ -13,7 +13,7 @@ author: johndoe
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/profile.png)
+![Screenshot](https://raw.githubusercontent.com/milldawg167/milldawg16.github.io/master/assets/profile.png)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](http://milldawg167.github.io/RetroCalculator/). This is a test.
 
