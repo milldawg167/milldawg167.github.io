@@ -5,11 +5,11 @@ date: 2018-02-27 20:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- physics
+- quantum
 category: blog
 author: andrewmiller
-description: So let's give this thing a whirl...
+description: So let's give this thing a whirl
 ---
 
 ## Summary:
