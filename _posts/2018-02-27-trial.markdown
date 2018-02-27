@@ -2,7 +2,9 @@
 title: "trial_post"
 layout: post
 date: 2018-02-27 16:41
-tag: jekyll, swift
+tag:
+- jekyll
+- trial
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
