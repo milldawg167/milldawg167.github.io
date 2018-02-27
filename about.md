@@ -15,7 +15,9 @@ ref=dp_ob_title_bk">The Emperor's New Mind</a> by Sir Roger Penrose, I was inspi
 to learn constantly about as much of the world as I could. So now, this blog is
 dedicated to my thoughts and findings on my journey, and hopefully any users of my 
 site can find something useful to them. If not that, then hopefully something mildly 
-interesting to read at least :smiley:.</p>
+interesting to read at least!</p>
+
+:smiley:
 
 <h2>Development Skills</h2>
 
