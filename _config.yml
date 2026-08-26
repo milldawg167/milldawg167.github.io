@@ -3,7 +3,7 @@ name: Andrew Miller
 bio: Just a guy who wants to learn everything about the world
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about physics, technology, finance and other cool stuff
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/CV-AndrewMiller.pdf
+resume-url: assets/Andrew Miller CV long.pdf
 
 # url: https://koppl.in/indigo
 url: https://milldawg167.github.io
@@ -28,17 +28,11 @@ analytics-google: 'UA-114790629-1'
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
-# if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
-  comments: true
-
 # if you don't have any of social below, comment the line
 facebook: amiller167
 twitter: admiller167
 google: AndrewMiller167
-instagram: milldawg167
+instagram: admiller167
 pinterest: andrewmiller167
 linkedin: amiller167
 youtube: milldawg167
