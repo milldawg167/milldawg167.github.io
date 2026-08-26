@@ -4,14 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hey guys! I'm Andrew, I'm 21 and I'm a Masters student at <a href = 
-"https://www.surrey.ac.uk/business-school">Surrey University</a> studying 
-Business Analytics. I completed my Bachelors in Physics at <a href =
-"http://www.imperial.ac.uk">Imperial College London</a>.</p>
+<p>Hey guys! I'm Andrew, I'm 30, and I'm endlessly curious about the world! :uk: & :malta:. Studied Physics BSc at Imperial College London and Business Analytics MSc at Surrey University. Chartered accountant (for my sins), serial modeller and coder, and conversationally fluent in Japanese.</p>
 
-<p>After learning about physics at Imperial, and also after reading <a href=
-"https://www.amazon.co.uk/Emperors-New-Mind-Concerning-Computers/dp/0198784929/
-ref=dp_ob_title_bk">The Emperor's New Mind</a> by Sir Roger Penrose, I was inspired
+<p>After reading <a href=
+"https://www.amazon.co.uk/Emperors-New-Mind-Concerning-Computers/">The Emperor's New Mind</a> by Sir Roger Penrose and <a href = "https://www.amazon.co.uk/Lateral-Thinking-Creativity-Edward-Bono/">Lateral Thinking</a> by Edward de Bono, I was inspired
 to learn constantly about as much of the world as I could. So now, this blog is
 dedicated to my thoughts and findings on my journey, and hopefully any users of my 
 site can find something useful to them. If not that, then hopefully something mildly 
@@ -19,7 +15,7 @@ interesting to read at least! Enjoy!</p>
 
 <p align="center">(づ｡◕‿‿◕｡)づ</p>
 
-<h2>Development Skills</h2>
+<h2>Dev Skills</h2>
 
 <ul class="skill-list">
 	<li>Python</li>
