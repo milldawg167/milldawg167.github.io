@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hey guys! I'm Andrew, I'm 30, and I'm endlessly curious about the world! :uk: & :malta:. Studied Physics BSc at Imperial College London and Business Analytics MSc at Surrey University. Chartered accountant (for my sins), serial modeller and coder, and conversationally fluent in Japanese.</p>
+<p>Hey guys! I'm Andrew, I'm 30, and I'm endlessly curious about the world! Studied Physics BSc at Imperial College London and Business Analytics MSc at Surrey University. Chartered accountant (for my sins), serial modeller and coder, and conversationally fluent in Japanese.</p>
 
 <p>After reading <a href=
 "https://www.amazon.co.uk/Emperors-New-Mind-Concerning-Computers/">The Emperor's New Mind</a> by Sir Roger Penrose and <a href = "https://www.amazon.co.uk/Lateral-Thinking-Creativity-Edward-Bono/">Lateral Thinking</a> by Edward de Bono, I was inspired
